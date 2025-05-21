@@ -1,5 +1,7 @@
 # 🇰🇿 Kazakhstan Constitution AI Assistant (Gemini)
-## Ulzhan Tamyzgazina SE-2325
+## Bazarova Zarema, Zhalgassova Saniya,Seisekeyeva Dariga - SE-2321
+
+
 
 ## Overview
 This is a Streamlit-based AI assistant that uses Google's Gemini Pro to answer questions about the Constitution of Kazakhstan. Users can also upload their own `.pdf` or `.txt` files to include in the assistant's context.
