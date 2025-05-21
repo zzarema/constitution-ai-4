@@ -10,11 +10,8 @@ This is a Streamlit-based AI assistant that uses Google's Gemini Pro to answer q
 
 ## Screenshots
 
-<div align="center">
-  <img src="screens/1.png" alt="Streamlit UI Screenshot 1" width="600"/>
-  <br/>
-  <img src="screens/2.png" alt="Streamlit UI Screenshot 2" width="600"/>
-</div>
+![image](https://github.com/user-attachments/assets/c4fbae8f-c87f-41cd-bc32-6a1c9ef24b64)
+![image](https://github.com/user-attachments/assets/3d7c57cc-dae5-4e5e-8e0b-3d2c6802856b)
 
 ---
 
