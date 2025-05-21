@@ -60,7 +60,7 @@ Then open browser and go to: http://localhost:8501
 
 ## MIT License
 
-Copyright (c) 2025 ulzhan
+Copyright (c) 2025 se2321
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
