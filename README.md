@@ -29,7 +29,7 @@ This is a Streamlit-based AI assistant that uses Google's Gemini Pro to answer q
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kozqarashigi/AI-Document-Assistant.git
+git clone https://github.com/zzarema/constitution-ai-4.git
 cd AI-Document-Assistant
 
 
